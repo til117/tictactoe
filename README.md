@@ -60,9 +60,11 @@ and then replace pipe above with /tmp/mypipe
 # Windows users
 
 If you want to run your code in Windows with the above technique, you can use Cygwin.
+
 C++
 
 If you want to be able to compile your C++ code in cygwin you should obtain the gcc-g++ package. You can find it easy with the search function on the screen that lets you select additional packages during the installation.
+
 Java
 
 Install the JDK on your Windows machine. In cygwin you need add the path to the java executables with something like
