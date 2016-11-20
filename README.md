@@ -1,5 +1,8 @@
 # tictactoe
-A program that plays tic-tac-toe in a 4x4 board, (A.I. course KTH project)
+A program that plays tic-tac-toe in a 4x4 board, (A.I. course KTH project).
+It is written in C++
+
+# Description
 
 In this project, the goal is to implement a program that plays the game of Tic-Tac-Toe. The strategy allows the program to win (or not lose) as often as possible. A skeleton which generates a list of valid moves to choose from is provided.
 
